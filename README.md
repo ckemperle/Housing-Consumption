@@ -3,7 +3,6 @@
 ---
 ## Table of contents
 * [General info](#general-info)
-* [Setup](#setup)
 * [Example](#example)
 
 ---
